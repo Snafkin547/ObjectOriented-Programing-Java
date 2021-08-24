@@ -1,6 +1,6 @@
 # UCSD-SampleCode
 
-These are the code stacks from UCSD's online course on coursera, the first online programming course I ever took.
+These are the code stacks from UCSD's online course(https://www.coursera.org/learn/object-oriented-java) on coursera, the first online programming course I ever took.
 
 It first taught me the basic of concept and several how-to about Object Oriented Programming.
 
